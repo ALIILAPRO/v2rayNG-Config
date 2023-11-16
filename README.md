@@ -13,3 +13,7 @@ This configuration list is collected from the list of configurations available o
     ```bash
     https://github.com/ALIILAPRO/v2rayNG-Config/blob/main/server.txt
     ```
+- **v2rayNG subscription URL**
+    ```bash
+    https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+    ```
