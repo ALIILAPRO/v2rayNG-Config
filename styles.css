@@ -1,0 +1,100 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: black;
+}
+
+.topnav #donate {
+  float: right;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #33ff00;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: monospace;
+}
+
+.topnav a:hover {
+  background-color: #9c999a;
+  color: #080808;
+}
+
+.topnav a.active {
+  background-color: #f5034b;
+  color: white;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+  margin: 20px auto;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+  text-align: center;
+  padding: 5px;
+  border-bottom: 15px solid #080808;
+}
+
+th {
+  background-color: #181818;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #02b13c;
+}
+
+.link-preview {
+  display: inline-block;
+  max-width: 100%;
+  overflow: visible;
+  text-overflow: clip;
+  white-space: normal;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #0f0f0f;
+  color: white;
+  cursor: pointer;
+  user-select: none;
+  transition: transform 0.25s ease-out;
+  word-break: break-all;
+}
+
+.link-preview:hover {
+  transform: translate(5px, 5px);
+}
+
+h1 {
+  text-align: center;
+  color: #33ff00;
+  font-family: monospace;
+  font-size: 3em;
+}
+
+p {
+  color: #eeeaea;
+  text-align: center;
+  font-family: monospace;
+  font-size: 2em;
+  padding: 0 10%;
+  margin: 1em 0;
+}
