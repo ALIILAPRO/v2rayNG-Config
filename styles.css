@@ -39,6 +39,14 @@ body {
   color: white;
 }
 
+@media only screen and (max-width: 600px) {
+  .topnav a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
 table {
   border-collapse: collapse;
   width: 100%;
