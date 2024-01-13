@@ -344,3 +344,7 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@er--join.outline-vpn.cloud:443?path
 vless://c6fdbcfe-5a8e-4195-e62e-c36f8846f131@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helg.LIGHTNING6.IR#Join+%40V2rayNGn
 vless://c6fdbcfe-5a8e-4195-e62e-c36f8846f131@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2hele.LIGHTNING6.IR#Join+%40V2rayNGn
 vless://c6fdbcfe-5a8e-4195-e62e-c36f8846f131@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helc.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://1176a3fd-af7b-4b91-d2e0-c1fb34e26c47@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helc.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://---VPNCUSTOMIZE---@all.VPNCUSTOMIZE.cam:8443?path=%40VPNCUSTOMIZE%3Fed%3D2048&security=tls&encryption=none&host=11.PlV2ray.space&fp=chrome&type=ws&sni=11.PlV2ray.space#Join+%40V2rayNGn
+vless://---VPNCUSTOMIZE---@all.VPNCUSTOMIZE.cam:8443?path=%40VPNCUSTOMIZE%3Fed%3D2048&security=tls&encryption=none&host=VPNCUSTOMIZE.V2rayng.pw&fp=chrome&type=ws&sni=VPNCUSTOMIZE.V2rayng.pw#Join+%40V2rayNGn
+vless://---VPNCUSTOMIZE---@all.vpncustomize.cam:8443?path=%40VPNCUSTOMIZE%3Fed%3D2048&security=tls&encryption=none&host=LondonV2ray.subscribeV2.sbs&type=ws&sni=LondonV2ray.subscribeV2.sbs#Join+%40V2rayNGn
