@@ -378,3 +378,6 @@ vless://7eb1733f-b192-41bc-af52-8ab96b5967af@iranserver.com:443?path=%2F%40Freed
 vless://13f021a8-af20-43b6-b6a7-c09637ee8a24@speedtest.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=me&sni=fin6.melobigg.site#ULTRA+06+ID%28%40Outline_Vpn%29+%F0%9F%94%90
 vless://58d9858e-36f3-4bbf-bf36-7d4ce83dbb59@cdnjs.com:2086?path=%2F&security=none&encryption=none&host=p3.abrarvan.xyz&type=ws#ULTRA+07+ID%28%40Outline_Vpn%29+%F0%9F%94%90
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#ULTRA+08+ID%28%40Outline_Vpn%29+%F0%9F%94%90
+vless://14a02349-ad99-4036-dfbf-955a98e5d677@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helt.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://14a02349-ad99-4036-dfbf-955a98e5d677@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helz.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://14a02349-ad99-4036-dfbf-955a98e5d677@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2hel.LIGHTNING6.IR#Join+%40V2rayNGn
