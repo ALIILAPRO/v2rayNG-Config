@@ -361,3 +361,6 @@ vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3F
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@www.unpkg.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#IWSC+23+ID%28%40Outline_Vpn%29+%F0%9F%AB%96
 trojan://qG9K8AGnn9XH5jUqeFu96g@cdn-13.cdn2cdn.com:2083?path=%2F&security=tls&host=cdn13.cdn2cdn.com&fp=chrome&type=ws&sni=cdn13.cdn2cdn.com#IWSC+24+ID%28%40Outline_Vpn%29+%F0%9F%AB%96
 trojan://yjQi9IX5mu@de6.melobigg.site:443?path=%2Fme&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=de6.melobigg.site#IWSC+25+ID%28%40Outline_Vpn%29+%F0%9F%AB%96
+vless://2b0a39f8-e8ea-4aa3-f3a9-73975d243087@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helo.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://2b0a39f8-e8ea-4aa3-f3a9-73975d243087@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helg.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://2b0a39f8-e8ea-4aa3-f3a9-73975d243087@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helt.LIGHTNING6.IR#Join+%40V2rayNGn
