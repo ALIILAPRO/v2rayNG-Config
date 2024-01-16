@@ -418,3 +418,9 @@ vless://a9281288-3659-4eea-9044-58291062ab6f@iran-007-join.outline-vpn.cloud:208
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@90--join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#YAS+54+ID%28%40Outline_Vpn%29
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@090--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#YAS+55+ID%28%40Outline_Vpn%29
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@edgu.pureboy.eu.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#YAS+56+ID%28%40Outline_Vpn%29
+vless://04a93bb8-0a5b-4aa8-ab7f-31fc7adab1c1@edgu.pureboy.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=edgu.pureboy.eu.org&fp=chrome&type=ws&sni=edgu.pureboy.eu.org#Galaxy+30+ID%28%40Outline_Vpn%29
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#Galaxy+31+ID%28%40Outline_Vpn%29
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80--join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#Galaxy+32+ID%28%40Outline_Vpn%29
+vless://7d95b74d-e1d0-4771-bc3f-65b84e791e4b@zula.ir:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=me&sni=fin6.melobigg.site#Galaxy+33+ID%28%40Outline_Vpn%29
+vless://7d95b74d-e1d0-4771-bc3f-65b84e791e4b@speedtest.org:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=me&sni=fin6.melobigg.site#Galaxy+34+ID%28%40Outline_Vpn%29
+trojan://A2CQhaLUQF@de.melobigg.site:443?path=%2Fme&security=tls&alpn=h2,http/1.1&fp=chrome&type=ws&sni=de.melobigg.site#Galaxy+35+ID%28%40Outline_Vpn%29
