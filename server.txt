@@ -448,3 +448,6 @@ vless://48bd4d22-e42f-4749-af6a-85ecf716c823@ubia2-join.outline-vpn.cloud:443?pa
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@k---join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#BVB+64+ID%28%40Outline_Vpn%29
 vless://e1a928be-e289-4aef-b92e-4106fabdf42f@upload.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#BVB+65+ID%28%40Outline_Vpn%29
 vless://64921a6f-d4ca-4f4c-b279-73b96e32a9d3@z-v2-001822.kailib.com:443?path=%2Fstore%3Fed%3D2048&security=tls&encryption=none&host=z-v2-001822.kailib.com&type=ws&sni=z-v2-001822.kailib.com#BVB+66+ID%28%40Outline_Vpn%29
+vless://76134fb4-605c-4f92-a0db-96c3069f6aad@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helz.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://76134fb4-605c-4f92-a0db-96c3069f6aad@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2helt.LIGHTNING6.IR#Join+%40V2rayNGn
+vless://76134fb4-605c-4f92-a0db-96c3069f6aad@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6&sni=liV2hel.LIGHTNING6.IR#Join+%40V2rayNGn
