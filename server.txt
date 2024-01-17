@@ -432,3 +432,9 @@ vless://cf15b202-d101-4831-9e0b-1d63e9311328@cdnjs.com:2052?path=%2F&security=no
 vless://462acb01-a275-433c-9fc6-074de3d68ba0@turkws.configforvpn.fun:2087?path=%2F&security=tls&encryption=none&type=ws&sni=turkws.configforvpn.fun#Coin+35+ID%28%40Outline_Vpn%29
 vless://dfb18c6f-731a-4898-a1c4-cc36c6055a90@w2.sylarsun.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w2.sylarsun.eu.org&type=ws&sni=w2.sylarsun.eu.org#Coin+36+ID%28%40Outline_Vpn%29
 vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@star--join.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#Coin+37+ID%28%40Outline_Vpn%29
+vless://48bd4d22-e42f-4749-af6a-85ecf716c823@ubia2-join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fkhamnei.kosnanatfilterchi.eu.org&type=ws#VA+X1+ID%28%40Outline_Vpn%29
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#VA+X2+ID%28%40Outline_Vpn%29
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@zula.ir:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#VA+X3+ID%28%40Outline_Vpn%29
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@ult--join.outline-vpn.cloud:443?path=%2F%3Fed&security=tls&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws&sni=mahi.kosnanatfilterchi.eu.org#VA+X4+ID%28%40Outline_Vpn%29
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@advailo.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=3k.pureboy.eu.org&type=ws&sni=3k.pureboy.eu.org#VA+X5+ID%28%40Outline_Vpn%29
+vless://7eb1733f-b192-41bc-af52-8ab96b5967af@iranserver.com:443?path=%2F%40FreedomSparrow%2F%3Fed%3D1024&security=tls&encryption=none&alpn=h2,http/1.1&host=sparrow.lionforpeople.site&fp=chrome&type=ws&sni=sparrow.lionforpeople.site#VA+X6+ID%28%40Outline_Vpn%29
