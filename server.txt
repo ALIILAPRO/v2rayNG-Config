@@ -170,3 +170,5 @@ vless://049f97b8-7180-4b67-d79d-9541ff116fe8@13.49.231.106:8080?mode=gun&securit
 vless://79c89775-3014-4e52-f528-b8abdc9e6362@www.speedtest.net:8080?path=%2Fghuiorguijiogfioeuorue&security=none&encryption=none&host=3f2.all-mci.cfd&type=ws#HamraheAval+34+ID%28%40Outline_Vpn%29
 vless://e4a52f75-474e-449e-bcd2-05ea177f1403@trt--join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=100.%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%97%E8%BF%9020.tech&type=ws#HamraheAval+35+ID%28%40Outline_Vpn%29
 vless://1de6b2e8-0ac1-4ed1-9924-132f92ecad53@ph--join.outline-vpn.cloud:2087?path=%2F&security=tls&encryption=none&host=gmV2raybo.shhproxyfree.com&type=ws&sni=gmV2raybo.shhproxyfree.com#HamraheAval+36+ID%28%40Outline_Vpn%29
+vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=20ns2-V2ray.Vpncustomize.Com#Join+%40V2rayNGn
+vless://VPNCUSTOMIZE@tel.VPNCUSTOMIZE.cam:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=VPNCUSTOMIZE-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&type=ws#Join+%40V2rayNGn+mci
