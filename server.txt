@@ -330,3 +330,5 @@ vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@mtn-----join.outline-vpn.cloud:443?
 vless://49ac899d-76ac-4189-fbd1-5880ef54dfe1@medium.com:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=nns.bestmoonlive.com&type=ws&sni=nns.bestmoonlive.com#Join+110+%28%40Outline_Vpn%29
 vless://74b5c929-1421-4002-d0c1-d41067d6a0a9@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6
 vless://5bd55519-987e-443c-ae11-db8bf16648f8@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=liV2raya.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&type=ws#Join+%40V2rayNGn+mci
+vless://7deb0a46-5d4f-40c8-e1ba-88a0023bbfb2@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6
+vless://dd807df2-dbd0-4417-a2dd-3f5de1849558@LIGHTNING6-joinbede.liV2ray.xyz:8880?path=%2F%40LIGHTNING6%2C+%40LIGHTNING6&security=none&encryption=none&host=liV2raya.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&type=ws#Join+%40V2rayNGn+mci
