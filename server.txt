@@ -459,3 +459,4 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=%2Fparadise&
 vless://416339cf-dadd-4831-987b-80f8434d2ebe@zula.ir:443?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=&sni=ty1.livingspringonline.com#Irancell+275+%28%40Outline_Vpn%29
 vless://fc6ef02f-aaca-477d-8609-c7c1537f8a6f@oirancelllll.outline-vpn.cloud:443?mode=gun&security=reality&encryption=none&pbk=uvwIRRB8ZUmTdcXmRkonO6Dh23b0RDa2iPRgWQUMFBw&fp=chrome&type=grpc&serviceName=&sni=s13.norbertpro.site&sid=7e4444ac#Irancell+276+%28%40Outline_Vpn%29
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@op.bilibili.ovh:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=k.kp&fp=randomized&type=ws&sni=GOV.UK#Irancell+277+%28%40Outline_Vpn%29
+vless://c6ce2fc3-85a2-400d-f913-f8294c9a07d8@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=@LIGHTNING6
