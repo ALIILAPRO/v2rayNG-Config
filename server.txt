@@ -553,3 +553,5 @@ vless://20bb38f0-aab8-49d1-8785-e0923eccbca6@discord.com:443?mode=gun&security=t
 vless://b1e10446-c06f-4b13-a0c8-ea66703373b0@162.159.136.234:80?path=%2F&security=none&encryption=none&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&type=ws#HamraheAval+123+%28%40Outline_Vpn%29
 vless://f2008a4c-e4ed-4ddb-abfe-c6f7dcef5772@yoast.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=m11.takaza.buzz#HamraheAval+124+%28%40Outline_Vpn%29
 vless://bda4be04-48bf-4df1-aaf2-6d42522eab6b@CDN.user.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ehda.sajaditsme.com&type=ws#HamraheAval+125+%28%40Outline_Vpn%29
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@ajab-VPNCUSTOMIZE.O-O.my.id:80?path=%2FVPNCUSTOMIZE-VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=VPNCUSTOMIZE_-V2ray.xn--4OQ36ED28D.ORG.&type=ws#MTN
+vless://VPNCUSTOMIZE--VPNCUSTOMIZE@discord.gg:80?path=%2FVPNCUSTOMIZE--VPNCUSTOMIZE%3Fed%3D1048&security=none&encryption=none&host=xn--047h.xn--4oq36ed28d.ORG.&type=ws#MCI
