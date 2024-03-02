@@ -142,4 +142,4 @@ vless://f93ec53a-87a2-4a94-8f92-f9f9b076b691@185.128.40.224:39554?security=none&
 vless://cf663de3-7a32-415f-b0f6-d05b85c0afa1@185.146.173.51:8880?security=none&type=ws&host=xn---qhantayawi--a-9wl9bqtr75a955a5b97asba44yjwac23607hkhja.lightning6.xyz.&path=/@LIGHTNING6,@LIGHTNING6&alpn=@V2RayTz,@V2RayTz#@Hope_Net-join-us-on-Telegram
 vless://aa3f82c5-83d6-4f78-a064-d07a8b0e4985@104.21.11.229:2083?security=tls&sni=god1.bestgameir.ir&type=ws&path=%2Fws&fp=chrome&alpn=h2,http/1.1#@Hope_Net-join-us-on-Telegram
 vless://73810a94-26a4-424c-a8af-9176290983c4@104.18.203.232:80?security=none&type=ws&host=SHHPROXY-free.xn--69-pv2cl2k5x3fipr.org.&path=%252F#@Hope_Net-join-us-on-Telegram
-vless://44cb0056-f846-413b-911e-7014c30b1298@162.159.136.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
+vless://44cb0056-f846-413b-911e-7014c30b1298@162.159.136.234:2096?security=tls&sni=re4.v2logy.xyz&type=grpc&fp=chrome&alpn=http/1.1#@Hope_Net-join-us-on-Telegramvless://aa3f82c5-83d6-4f78-a064-d07a8b0e4985@104.21.11.229:2083?security=tls&sni=god1.bestgameir.ir&type=ws&path=%2Fws&fp=chrome&alpn=h2,http/1.1#[🇨🇦]t.me/ConfigsHub
