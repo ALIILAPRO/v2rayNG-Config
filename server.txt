@@ -1,5 +1,6 @@
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://35eeca70-7160-4136-9071-ce587820fd7e@104.18.53.172:443?security=tls&sni=x2.gem1.cfd&type=ws&path=/#@Hope_Net-join-us-on-Telegram
 vless://d6425c53-e63f-4c48-937f-af3dc4876e86@104.22.51.162:443?security=tls&sni=XI.xn--69-pv2cl2k5x3fipr.site&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 vless://cead5a7e-4a1d-4f93-8825-429969dd2fb8@162.159.136.234:2083?security=tls&sni=new.top-speed.shop&type=grpc&serviceName=go-ogle&alpn=h2%2Chttp%2F1.1#@Hope_Net-join-us-on-Telegram
 vless://8ac6dc1b-e6d8-4e36-a019-487c8a48ad64@172.67.223.33:80?security=none&type=ws&host=admin.irayanconfig.ir&path=/wss24345?ed%3D2048#@Hope_Net-join-us-on-Telegram
