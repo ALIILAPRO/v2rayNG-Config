@@ -1,6 +1,5 @@
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://7a0714f4-dd4d-4fd3-bdae-6c0588dc0c54@www.you.com:443?path=Join-Telegram-Channel-@AstroVPN_official/&security=tls&encryption=none&host=no1.v2vless.xyz&sni=no1.v2vless.xyz&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://d8bf72d4-5b26-41c7-9a87-4d10086e4578@www.you.com:443?path=Join-Telegram-Channel-@AstroVPN_official&security=tls&encryption=none&host=nl1.v2vless.xyz&sni=nl1.v2vless.xyz&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://bdc5bbb1-3d1a-4ae9-b4c8-3fdfcf0fba14@www.you.com:443?path=Join-Telegram-Channel-@AstroVPN_official/&security=tls&encryption=none&host=nl2.v2vless.xyz&sni=nl2.v2vless.xyz&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@47.242.196.48:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=jd.wxgqlfx.top#[🏁]t.me/ConfigsHub
@@ -200,4 +199,5 @@ vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.121.44:80?path=%2F&security=
 trojan://0e81a9cd-d849-4101-8d64-574c283207de@172.67.204.84:2083?path=%2Fwebsocket&security=tls&host=de1.trojanvpn.de&type=ws&sni=de1.trojanvpn.de#[🇨🇦]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.210.17.107:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://38a2070d-a256-48f3-891b-c9b68b01c8f7@8.222.169.181:46458?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=jd.wxgqlfx.top#[🏁]t.me/ConfigsHub
+vless://7502d8c0-b4cd-462f-93ec-b8e04e46caa8@map.footballlovernews.com:443?path=%2Fmap&security=tls&encryption=none&type=ws&sni=map.footballlovernews.com#[🇨🇦]t.me/ConfigsHub
 vless://ffffffff-bf32-4282-b875-eca220008daf@www.zula.ir:443?security=none&encryption=none&headerType=none&type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D9%85%D8%A7+%D8%AF%D8%B1+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%3A+V2rayng_Fast%40
