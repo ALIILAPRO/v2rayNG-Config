@@ -1,7 +1,5 @@
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://d396ade5-431b-4127-a7bf-46979eb78761@79.175.177.127:443?security=none&type=tcp&headerType=http#@Hope_Net-join-us-on-Telegram
-vless://ecd404a2-70b2-4e89-8339-89536cdfae52@172.67.176.105:8080?security=none&sni=king1980us.50fo8itj.workers.dev&type=ws&host=king1980us.50fo8itj.workers.dev&path=%2F%3Fed%3D2048#@Hope_Net-join-us-on-Telegram
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.228.191.232:443?security=tls&sni=kk022.ylks.link&type=ws&path=%2Fyoutube-%E7%94%B1%E9%9B%B6%E9%96%8B%E5%A7%8B#@Hope_Net-join-us-on-Telegram
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev#@Hope_Net-join-us-on-Telegram
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@66.81.247.24:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#@Hope_Net-join-us-on-Telegram
