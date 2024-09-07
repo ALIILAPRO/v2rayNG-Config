@@ -1,13 +1,5 @@
 vmess://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://eyJhZGQiOiJodHRwczovL2dpdGh1Yi5jb20vQUxJSUxBUFJPL3YycmF5TkctQ29uZmlnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IkZyZWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQzMyIsInBzIjoi8J+SgPCfmI4gUHJvamVjdCBCeSBBTElJTEFQUk8iLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://93b99881-df03-4597-9146-0c11e46387f7@116.40.170.124:24100?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
-vless://93b99881-df03-4597-9146-0c11e46387f7@49.165.150.206:35899?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
-vless://93b99881-df03-4597-9146-0c11e46387f7@49.165.150.206:18916?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.175:80?path=%2F&security=none&encryption=none&type=ws#🆔@v2ray_configs_pool`
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@66.235.200.158:2083?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#🆔@v2ray_configs_pool`
-vless://93b99881-df03-4597-9146-0c11e46387f7@117.123.72.132:21979?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
-vless://93b99881-df03-4597-9146-0c11e46387f7@124.199.33.104:22672?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@159.112.235.14:8443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=juzibaipiao.5112233.xyz#🆔@v2ray_configs_pool`
 vless://93b99881-df03-4597-9146-0c11e46387f7@118.130.23.168:22035?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
 vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@115.143.93.241:12000?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=vb.ylkszy.eu.org#🆔@v2ray_configs_pool`
 vless://93b99881-df03-4597-9146-0c11e46387f7@1.34.89.47:13749?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
@@ -199,4 +191,4 @@ vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@188.244.122.64:443?path=tg%40zdyz2&
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@69.84.182.16:443?path=%2Fblue&security=tls&encryption=none&type=ws&sni=kb.ylks.xyz#🆔@v2ray_configs_pool`
 vless://93b99881-df03-4597-9146-0c11e46387f7@59.29.116.20:11965?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
 vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@158.224.83.160:443?path=%2F%3Fed&security=tls&encryption=none&type=ws&sni=pages.teasalo.cloudns.org#🆔@v2ray_configs_pool`
-vless://93b99881-df03-4597-9146-0c11e46387f7@223.18.129.85:39578?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`
+vless://93b99881-df03-4597-9146-0c11e46387f7@223.18.129.85:39578?path=%2F%3Fed&security=tls&encryption=none&fp=random&type=ws&sni=cfv.cscfwoker.fun#🆔@v2ray_configs_pool`vless://%50a%72sa%73%68%6fna%6d-57@185.146.173.39:8880?Telegram=@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx,@v2maxx&path=%2F&serviceName=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool🛜🇸🇪Sweden`
