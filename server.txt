@@ -23,4 +23,3 @@ vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=%2F%3Fed%3D256
 vless://4ee1809a-4a35-4601-99b3-51ce05fb4585@5.75.205.77:2054?&security=tls&fp=random&sni=oty.myto.ip-ddns.com&type=ws&headerType=none&host=oty.myto.ip-ddns.com&path=%2F%3Fed%3D2560#🇨🇦[openproxylist.com]
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.150:8880?security=&encryption=none&type=grpc#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=pq.chile1.09vpn.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B1
-vless://499ee245-f954-4d41-9943-4e85666b7414@104.18.26.94:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=esetsecuritylicense.mybdgpd.workers.dev&type=ws#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
