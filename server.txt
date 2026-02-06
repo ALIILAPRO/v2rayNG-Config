@@ -81,7 +81,6 @@ vless://d943638e-f326-42ab-a8ca-a632f9757fe1@178.215.238.193:2056?security=none&
 vless://d943638e-f326-42ab-a8ca-a632f9757fe1@151.101.1.160:80?path=%2Fwst%3Fed%3D2056&security=none&encryption=none&host=parsianmobilebank.ir&type=ws#[🏁]t.me/ConfigsHub`
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.88.134:80?security=none&type=ws&host=us3.rtacg.com&path=/#[🏁]t.me/ConfigsHub`
 vless://98d677be-b14b-4c14-a96b-4a39a3be645a@chatgpt.com:443?path=%2FeyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev#[🏁]t.me/ConfigsHub`
-vless://07d57ceb-88f9-497b-b83d-b0335a4e4768@srv1.tak30m.com:38501?headerType=http&host=divar.ir&path=%2F&security=none&type=tcp#[🏁]t.me/ConfigsHub`
 vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@iran.mr-cloud.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=__6BhtO3Rhjw4wnAmzklhquVvIngjhfnB8dhDVtj0Vs&headerType=None&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=275f34#%40v2Meli
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobinhost.com:443?path=%2Fao0s41N5cxHj2bMQx1iv8oR&security=tls&alpn=h2&encryption=none&host=cdn-two.mr-cloud.ir&fp=chrome&type=ws&sni=cdn-two.mr-cloud.ir#%40v2Meli
