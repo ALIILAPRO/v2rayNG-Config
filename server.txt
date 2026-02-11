@@ -81,7 +81,6 @@ vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode
 vless://d18c3e79-96c4-4e48-b0a4-104f7d7a1b8d@tn9.radmardmax.ir:7559?security=none&encryption=none&headerType=http&type=tcp#[🏁]t.me/ConfigsHub`
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.162.81:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com]
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.79.158:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#[🏁]t.me/ConfigsHub`
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#[🏁]t.me/ConfigsHub`
 vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@iran.mr-cloud.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=__6BhtO3Rhjw4wnAmzklhquVvIngjhfnB8dhDVtj0Vs&headerType=None&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=275f34#%40v2Meli
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobinhost.com:443?path=%2Fao0s41N5cxHj2bMQx1iv8oR&security=tls&alpn=h2&encryption=none&host=cdn-two.mr-cloud.ir&fp=chrome&type=ws&sni=cdn-two.mr-cloud.ir#%40v2Meli
