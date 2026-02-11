@@ -96,7 +96,6 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tl
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#[🏁]t.me/ConfigsHub`
 vless://071435dc-6ab9-4502-8441-ed4a4b609092@104.26.7.205:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=n1.n1server.org#[🏁]t.me/ConfigsHub`
 vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.170.140:2053?encryption=none&security=tls&sni=INDEX.Arcane509.Workers.DEV&alpn=http%2F1.1&fp=chrome&type=ws&host=index.arcane509.workers.dev&path=%2Fassets%3Fed%3D2048#[🏁]t.me/ConfigsHub`
-vless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086?encryption=none&security=none&type=ws&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#[🏁]t.me/ConfigsHub`
 vless://%50a%72sa%73%68%6fna%6d-Bot-37@104.17.147.22:8080?type=grpc&serviceName=
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@iran.mr-cloud.ir:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=__6BhtO3Rhjw4wnAmzklhquVvIngjhfnB8dhDVtj0Vs&headerType=None&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=275f34#%40v2Meli
 vless://06d4887e-9e2c-45a3-a0ac-309f4e47f047@mobinhost.com:443?path=%2Fao0s41N5cxHj2bMQx1iv8oR&security=tls&alpn=h2&encryption=none&host=cdn-two.mr-cloud.ir&fp=chrome&type=ws&sni=cdn-two.mr-cloud.ir#%40v2Meli
