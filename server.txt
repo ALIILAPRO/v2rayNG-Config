@@ -1,12 +1,12 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-16 - 14:08 (Iran/Tehran)
+# 📅 Generated: 2026-02-16 - 14:39 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE2IC0gMTQ6MDggKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE2IC0gMTQ6MzkgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -74,9 +74,7 @@ trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecu
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%D8%AC%D9%88%DB%8C%D9%86%20%DA%86%D9%86%D9%84%20%D8%B4%DB%8C%D8%AF%20%D9%82%D8%B7%20%D9%86%D8%B4%DB%8C%D8%AF%40shankamil
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40V2rayng_Fast```
 trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40DeamNet_proxy
-vless://3cf1bb05-7075-4820-81ce-93ec7a42be7a@kari-joz-neveshtan-azam-bar-nemiad.global.ssl.fastly.net:443?security=tls&type=ws&path=%2Fsite&alpn=h2%2Chttp%2F1.1&sni=kari-joz-neveshtan-azam-bar-nemiad.global.ssl.fastly.net&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%ADCH_1%7C2.3MB%2Fs#کانفیگ_تست_شده
-vless://3cf1bb05-7075-4820-81ce-93ec7a42be7a@scrmx.global.ssl.fastly.net:443?security=tls&type=ws&path=%2Fsite&alpn=http%2F1.1&sni=scrmx.global.ssl.fastly.net&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL_2%7C1.4MB%2Fs#کانفیگ_تست_شده
-vless://4de25158-61a9-4abf-a653-ef0db0ca99ac@andadeh.digi2020kala.website:39200?security=none&type=tcp%20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_2%7C2.5MB%2Fs#کانفیگ_تست_شده
+vless://f7331adc-8d7a-4a9a-8ade-37b2a0dcc608@78.47.233.113:54743?security=none&type=tcp%20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_5%7C7.6MB%2Fs#کانفیگ_تست_شده
 vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh1.sdcards1.ir#llgy-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=none&encryption=none&headerType=none&type=tcp#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
