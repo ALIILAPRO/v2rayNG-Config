@@ -1,12 +1,12 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-17 - 07:52 (Iran/Tehran)
+# 📅 Generated: 2026-02-17 - 08:22 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE3IC0gMDc6NTIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE3IC0gMDg6MjIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -75,10 +75,6 @@ trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40Outline_ir
 trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40meliproxyy
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40v2_mod_shop%F0%9F%9A%80%F0%9F%87%B3%F0%9F%87%B1
-vless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?security=none&type=tcp%20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_2%7C897KB%2Fs#کانفیگ_تست_شده
-vless://5f0772ad-9db3-4cb0-b801-bd40f51fd3ea@vip.api-tel.xyz:43151?security=none&type=ws&path=%2F&host=vip.api-tel.xyz#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AC%F0%9F%87%A7GB_2%7C5.5MB%2Fs#کانفیگ_تست_شده
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@185.126.3.186:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%ADCH_6%7C3.6MB%2Fs#کانفیگ_تست_شده
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.136:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%ADCH_7%7C2.4MB%2Fs#کانفیگ_تست_شده
 vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.225.157:26480?security=none&type=tcp&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A8%F0%9F%87%ADCH_8%7C1.6MB%2Fs#کانفیگ_تست_شده
 vless://7376dac3-b0dc-1822-adee-beb99c1342d9@fi1.mahboob.top:2086?security=none&type=tcp%20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AB%F0%9F%87%AEFI_3%7C4.8MB%2Fs#کانفیگ_تست_شده
 vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&type=tcp%20&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B7IR_1%7C4.6MB%2Fs#کانفیگ_تست_شده
