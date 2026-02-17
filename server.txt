@@ -1,12 +1,12 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-17 - 16:59 (Iran/Tehran)
+# 📅 Generated: 2026-02-17 - 17:29 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE3IC0gMTY6NTkgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTE3IC0gMTc6MjkgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -79,6 +79,9 @@ vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.i
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=none&encryption=none&headerType=none&type=tcp#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#elvh-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
+vless://93bf727c-95d1-4bd9-824e-3156b655ae71@f1.springpaatogh8.store:8443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=takken.sorza.ir&sni=digikala.sorza.ir&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_7%7C5.5MB%2Fs`
+vless://fd8b5a1f-2080-465e-8d70-2dee4183855e@black-mouse-6c80.tedoxa4182.workers.dev:443?security=tls&type=ws&path=%2Fhexmostafa%3Fed%3D2048&host=black-mouse-6c80.tedoxa4182.workers.dev&alpn=h2%2Chttp%2F1.1&sni=black-mouse-6c80.tedoxa4182.workers.dev&fp=chrome&encryption=none#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%A9%F0%9F%87%AADE_8%7C5.0MB%2Fs`
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%E2%9C%85%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%3Aprrofile_purple%40%E2%9C%85
 vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%E2%9C%85%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%3Aprrofile_purple%40%E2%9C%85
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#%E2%9C%85%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%3Aprrofile_purple%40%E2%9C%85
 vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%E2%9C%85%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%3Aprrofile_purple%40%E2%9C%85
