@@ -1,12 +1,12 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-22 - 02:12 (Iran/Tehran)
+# 📅 Generated: 2026-02-22 - 02:42 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTIyIC0gMDI6MTIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTIyIC0gMDI6NDIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -134,10 +134,6 @@ vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.i
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=none&encryption=none&headerType=none&type=tcp#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#elvh-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#[🇨🇦]t.me/ConfigsHub```
-vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?encryption=none&security=tls&sni=all-fm2.netsnap.ir.&fp=firefox&type=ws&host=all-fm2.netsnap.ir.&path=%2F#[🇨🇦]t.me/ConfigsHub```
-vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.68.122:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🇫🇷[openproxylist.com]
 vless://57f81938-115f-4067-8609-15b972881914@212.80.24.111:777?path=%40BluebberyNetWork&security=none&encryption=none&type=ws#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
 vless://c8c61b88-acf5-4e25-8128-b7c92bc719f8@it.jemspeed.top:39296?security=none&encryption=none&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple`
