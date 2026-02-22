@@ -1,12 +1,12 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-22 - 13:21 (Iran/Tehran)
+# 📅 Generated: 2026-02-22 - 13:51 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTIyIC0gMTM6MjEgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTIyIC0gMTM6NTEgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -136,11 +136,7 @@ vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.i
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=none&encryption=none&headerType=none&type=tcp#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@ipbaz.ping-box.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#elvh-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
-vless://c8c61b88-acf5-4e25-8128-b7c92bc719f8@it.jemspeed.top:39296?security=none&encryption=none&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple`
-vless://fe387417-4166-47f9-a863-706254f306d8@join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443?path=ws&security=tls&encryption=none&host=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev&fp=chrome&type=ws&sni=join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev#[🇨🇦]t.me/ConfigsHub```
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#[🇨🇦]t.me/ConfigsHub```
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#[🇨🇦]t.me/ConfigsHub```
-vless://af488953-ea77-7ac1-965d-19b3cd17c213@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=lgoin.persianmizban.com&fp=chrome&type=ws&allowInsecure=0&sni=lgoin.persianmizban.com#[🏁]t.me/ConfigsHub```
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#[🇨🇦]t.me/ConfigsHub```
 vless://d230f0f7-6826-4f8e-8dbb-69ee2c837358@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?encryption=none&security=tls&sni=beh1.salonemojallal.ir.&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&path=%2F#[🏁]t.me/ConfigsHub```
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#[🇨🇦]t.me/ConfigsHub```
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=/?Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-?ed=512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#🇨🇭[openproxylist.com]
