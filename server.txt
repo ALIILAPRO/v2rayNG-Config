@@ -1,12 +1,12 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Generated: 2026-02-24 - 04:48 (Iran/Tehran)
+# 📅 Generated: 2026-02-24 - 05:18 (Iran/Tehran)
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @ALIILAPRO_Config
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTI0IC0gMDQ6NDggKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTAyLTI0IC0gMDU6MTggKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -135,23 +135,12 @@ trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&typ
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9A%A1%E2%9A%A15
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2Line
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20WS-TLS%20%F0%9F%93%81%20%40meliproxyy
-vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=none&encryption=none&headerType=none&type=tcp#جاوید
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:34705?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=VylpE8evnde8qRnCDhllL5RL655_BwzT-CFgd_i4WiM&sid=db8c23&sni=www.apple.com&servername=www.apple.com&spx=%2F&fp=qq#جاوید
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:24236?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=UWLfp8JRki0Cn7b4rMi7BE-ipNN1YTsRAVdORpGbV1w&sid=7a45d5570f1461&sni=aws.amazon.com&servername=aws.amazon.com&spx=%2F&fp=safari#جاویدنام
-vless://18ca149b-4d45-4943-a298-4412229ff9ef@access-de5.agveit.pro:443?type=tcp&security=reality&flow=xtls-rprx-vision&sni=access-de5.agveit.pro&path=%2F&fp=chrome&pbk=m4crJITYp5A-TVwE4LEmASnNX4M08SZ5DUGPC90lKxA&sid=1a045ca3f7620675#جاوید
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:48277?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=9OYlNdt_vC308g-2Uqizkq77tskjunnEU0eLAm_0HjU&sid=c907a46fd26168&sni=www.amazon.com&servername=www.amazon.com&spx=%2F&fp=qq#جاویدنام
-vless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@104.21.52.172:8443?encryption=none&security=tls&sni=029.eLeCtROcELLCO-cf-029.wOrkERs.dEv&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=029.electrocellco-cf-029.workers.dev&path=/eyJqdW5rIjoiVkszbkhyU1UxMWtoNzE5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19?ed=2560#جاوید
-vless://9523a24b-f6bf-339e-9950-32829162ffc2@v1.dabache.top:443?type=ws&security=tls&sni=dabaihk.webn.cc&host=dabaihk.webn.cc&path=%2Fdb1024532f9883c8&fp=chrome#جاوید
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:53676?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=pUpJrE1iQejx-ycxWAYZujc3RWnl4Z1jhMc4rZjpYw0&sid=248e4a56f1&sni=apple.com&servername=apple.com&spx=%2F&fp=safari#جاویدنام
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:13843?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=q101wM1mXPcfNpZo3sbShOTiwH0OiSdYMP4G163hBlE&sid=fb3d0a0cf37ab1&sni=aws.amazon.com&servername=aws.amazon.com&spx=%2F&fp=chrome#جاویدنام
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:53676?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=pUpJrE1iQejx-ycxWAYZujc3RWnl4Z1jhMc4rZjpYw0&sid=248e4a56f1&sni=apple.com&servername=apple.com&spx=%2F&fp=ios#جاویدنام
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=/64.181.218.67=443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#جاوید
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:17591?mode=multi&security=reality&encryption=none&type=tcp&pbk=_6CCNe28TDi7oZGBQUEp8Q3uqmm9gqUVD-PisaiIuTc&sid=4d7c1431833276&sni=www.apple.com&servername=www.apple.com&spx=%2F&fp=qq#جاویدنام
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:53676?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=pUpJrE1iQejx-ycxWAYZujc3RWnl4Z1jhMc4rZjpYw0&sid=248e4a56f1&sni=apple.com&servername=apple.com&spx=%2F&fp=qq#جاوید
-vless://d5604db8-1f31-403d-a315-d8bafc70f7d2@bbg.66k.ccwu.cc:443?type=ws&security=tls&host=bbg.66k.ccwu.cc&path=%2F1Aeip9N4V6m20grcpQ8L96b#جاوید
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:35213?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=3sNy9J8VX4KDVvpyMBUi6aPVv7-e-GKjfMViM6uS9WM&sid=9859bd6770af20&sni=www.apple.com&servername=www.apple.com&spx=%2F&fp=firefox#جاویدنام
-vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529?security=reality&encryption=none&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=b77a294515ecc200#جاویدنام
-vless://8a6551e3-32de-4823-92aa-9d0e67a3dc92@jpfast-3.up-pay.xyz:50254?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=CsLE441POUHpllga-wuHdzk2W4vXTxAnDnE-IefZFVs&sid=aecdb46ccea076&sni=www.amazon.com&servername=www.amazon.com&spx=%2F&fp=chrome#جاویدنام
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=/&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#جاویدنام
+vless://c8dff83b-54f8-41b2-8829-7f6b01a9f187@solitary-voice-62ec.alird7575.workers.dev:2053?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1#جاویدنام
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.156.116.194:443?encryption=none&security=tls&sni=sni.111000.v6.navy&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#جاویدنام
+vless://5797a04f-7636-46df-9354-fd74c2264a28@nl01.bearvpn.win:443?mode=gun&security=reality&encryption=none&pbk=R-G0TgsAJZEFB4gEJ0bzScm0xJiO9bGgfGmt-X2IhAo&type=grpc&sni=5post-gate.x5.ru#جاویدنام
+vless://b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac@87.228.101.143:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=4a3ad88ff867a295#جاویدنام
+vless://0d0fd86e-a047-4b8c-b289-a2a353836d38@193.151.153.107:201?security=&encryption=none&headerType=none&type=tcp#جاویدنام
 vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=harro-likeh1.sdcards1.ir#llgy-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
 vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
 vless://e830796e-5dc0-4786-f64b-c4706682b7a1@5.57.38.168:443?security=none&encryption=none&headerType=none&type=tcp#Buy%20%40The_Last_Eli%20%F0%9F%87%A9%F0%9F%87%AA🔗
