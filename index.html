@@ -1,71 +1,806 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr" data-theme="dark">
 
 <head>
   <meta charset="UTF-8">
-  <title>v2rayNG Config - ALIILAPRO</title>
-  <meta name="keywords" content="programmer, developer, aliilapro, coder, vless, vmess, outline, vpn">
-  <meta name="description" content="Get new and fast config for bypassing net.">
-  <meta property="og:title" content="v2rayNG Config">
-  <meta property="og:type" content="website">
-  <meta property="og:description" content="Get new and fast config for bypassing net.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>v2rayNG Configs by ALIILAPRO</title>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <!-- <link rel="icon" type="image/x-icon" href="favicon.ico"> -->
-  <link rel="stylesheet" href="styles.css">
-  <title>v2rayNG Config</title>
+  <style>
+    :root {
+      --bg-primary: #090d16;
+      --bg-secondary: #111827;
+      --bg-card: #1f2937;
+      --text-primary: #f9fafb;
+      --text-secondary: #9ca3af;
+      --accent: #38bdf8;
+      --accent-hover: #0ea5e9;
+      --success: #10b981;
+      --border: #374151;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      font-family: 'Vazirmatn', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      line-height: 1.6;
+      display: flex;
+      flex-direction: column;
+      transition: direction 0.3s ease;
+    }
+
+    .navbar {
+      background-color: var(--bg-secondary);
+      border-bottom: 1px solid var(--border);
+      padding: 1rem 2rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    }
+
+    .brand {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--accent);
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .brand .author {
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      font-weight: 500;
+      background: rgba(255, 255, 255, 0.05);
+      padding: 0.15rem 0.6rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+    }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 1.25rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .nav-links a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+
+    .nav-links a:hover {
+      color: var(--text-primary);
+    }
+    .lang-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text-primary);
+      padding: 0.4rem 0.8rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-family: 'Vazirmatn', sans-serif;
+      font-weight: 600;
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      transition: all 0.2s;
+    }
+
+    .lang-btn:hover {
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .container {
+      max-width: 1080px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      width: 100%;
+      flex: 1 0 auto;
+    }
+
+    .hero {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .hero h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.5rem;
+      font-weight: 700;
+    }
+
+    .hero p {
+      color: var(--text-secondary);
+      font-size: 1.05rem;
+    }
+
+    .toolbar-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    .stat-pill {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 0.4rem 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    }
+
+    .stat-pill i {
+      color: var(--accent);
+    }
+
+    .stat-pill .stat-number {
+      color: var(--text-primary);
+      background: rgba(56, 189, 248, 0.15);
+      color: var(--accent);
+      padding: 0.1rem 0.55rem;
+      border-radius: 999px;
+    }
+
+    .filter-tabs {
+      display: flex;
+      gap: 0.5rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-tab {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      padding: 0.45rem 0.9rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-family: 'Vazirmatn', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 600;
+      transition: all 0.2s;
+    }
+
+    .filter-tab.active, .filter-tab:hover {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #000;
+    }
+
+
+    .controls {
+      margin-bottom: 1.5rem;
+    }
+
+    .search-box {
+      width: 100%;
+      padding: 0.85rem 1.2rem;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      color: var(--text-primary);
+      font-family: 'Vazirmatn', sans-serif;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .search-box:focus {
+      border-color: var(--accent);
+    }
+
+
+    .table-container {
+      background: var(--bg-secondary);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      overflow-x: auto;
+      box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+    }
+
+    html[dir="rtl"] table {
+      text-align: right;
+    }
+
+    thead {
+      background: var(--bg-card);
+      border-bottom: 1px solid var(--border);
+    }
+
+    th, td {
+      padding: 1rem;
+    }
+
+    th {
+      font-weight: 600;
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    tbody tr {
+      border-bottom: 1px solid var(--border);
+      transition: background 0.15s;
+    }
+
+    tbody tr:last-child {
+      border-bottom: none;
+    }
+
+    tbody tr:hover {
+      background: rgba(255, 255, 255, 0.03);
+    }
+
+
+    .badge {
+      display: inline-block;
+      padding: 0.25rem 0.6rem;
+      border-radius: 999px;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    .badge-vless { background: rgba(56, 189, 248, 0.15); color: #38bdf8; }
+    .badge-vmess { background: rgba(168, 85, 247, 0.15); color: #c084fc; }
+    .badge-trojan { background: rgba(249, 115, 22, 0.15); color: #fb923c; }
+    .badge-ss { background: rgba(16, 185, 129, 0.15); color: #34d399; }
+    .badge-other { background: rgba(156, 163, 175, 0.15); color: #d1d5db; }
+
+
+    .config-cell {
+      font-family: monospace;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+      max-width: 420px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      direction: ltr;
+      text-align: left;
+    }
+
+    .actions {
+      display: flex;
+      gap: 0.5rem;
+      justify-content: flex-end;
+    }
+
+    html[dir="rtl"] .actions {
+      justify-content: flex-start;
+    }
+
+    .btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      color: var(--text-primary);
+      padding: 0.5rem 0.8rem;
+      border-radius: 6px;
+      cursor: pointer;
+      font-family: 'Vazirmatn', sans-serif;
+      font-size: 0.85rem;
+      font-weight: 500;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      transition: all 0.2s;
+    }
+
+    .btn:hover {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #000;
+    }
+
+
+    .footer {
+      background: var(--bg-secondary);
+      border-top: 1px solid var(--border);
+      padding: 1.5rem 2rem;
+      margin-top: 3rem;
+      text-align: center;
+      flex-shrink: 0;
+    }
+
+    .footer-content {
+      max-width: 1080px;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-size: 0.9rem;
+      color: var(--text-secondary);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 1.5rem;
+    }
+
+    .footer a {
+      color: var(--text-secondary);
+      text-decoration: none;
+      transition: color 0.2s;
+    }
+
+    .footer a:hover {
+      color: var(--accent);
+    }
+
+    .modal {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0, 0, 0, 0.8);
+      backdrop-filter: blur(4px);
+      z-index: 200;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .modal-content {
+      background: var(--bg-secondary);
+      padding: 2rem;
+      border-radius: 16px;
+      border: 1px solid var(--border);
+      text-align: center;
+      position: relative;
+      max-width: 320px;
+      width: 90%;
+    }
+
+    .close-modal {
+      position: absolute;
+      top: 10px;
+      right: 15px;
+      background: none;
+      border: none;
+      color: var(--text-secondary);
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    html[dir="rtl"] .close-modal {
+      right: auto;
+      left: 15px;
+    }
+
+    #qrcode {
+      margin: 1.5rem auto;
+      background: #fff;
+      padding: 10px;
+      border-radius: 8px;
+      width: fit-content;
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      background: var(--success);
+      color: #fff;
+      padding: 0.8rem 1.5rem;
+      border-radius: 8px;
+      font-weight: 600;
+      box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.5);
+      transform: translateY(100px);
+      opacity: 0;
+      transition: all 0.3s ease-out;
+      z-index: 300;
+    }
+
+    html[dir="rtl"] .toast {
+      right: auto;
+      left: 2rem;
+    }
+
+    .toast.show {
+      transform: translateY(0);
+      opacity: 1;
+    }
+
+    @media (max-width: 768px) {
+      .navbar {
+        justify-content: center;
+        text-align: center;
+      }
+      .toolbar-header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .filter-tabs {
+        width: 100%;
+        overflow-x: auto;
+        padding-bottom: 0.5rem;
+      }
+      .config-cell {
+        max-width: 150px;
+      }
+      .btn span {
+        display: none;
+      }
+      .footer-content {
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+      }
+    }
+  </style>
 </head>
 
 <body>
-  <div class="topnav">
-    <a class="active" href="#home">Home</a>
-    <a href="https://t.me/source_pro">Telegram Channel</a>
-    <a href="https://github.com/ALIILAPRO/v2rayNG-Config">Github repo</a>
-    <a href="https://github.com/ALIILAPRO/MTProtoProxy">MTProtoProxy</a>
+
+  <nav class="navbar">
+    <a href="#" class="brand">
+      <i class="fa-solid fa-bolt"></i>
+      <span id="nav-title">v2rayNG Configs</span>
+      <span class="author">by ALIILAPRO</span>
+    </a>
+    
+    <div class="nav-actions">
+      <div class="nav-links">
+        <a href="https://t.me/dailyv2rayCF" target="_blank"><i class="fa-brands fa-telegram"></i> <span>@dailyv2rayCF</span></a>
+        <a href="https://github.com/ALIILAPRO/v2rayNG-Config" target="_blank"><i class="fa-brands fa-github"></i> <span>Repository</span></a>
+        <a href="https://github.com/ALIILAPRO" target="_blank"><i class="fa-brands fa-github"></i> <span>ALIILAPRO</span></a>
+      </div>
+
+      <button class="lang-btn" id="lang-toggle">
+        <i class="fa-solid fa-language"></i> <span id="lang-label">FA / فارسی</span>
+      </button>
+    </div>
+  </nav>
+
+  <main class="container">
+    <div class="hero">
+      <h1 id="hero-title">Free & Fast Proxies</h1>
+      <p id="hero-subtitle">Updated proxy configurations for v2rayNG to bypass network restrictions.</p>
+    </div>
+
+    <div class="toolbar-header">
+      <div class="filter-tabs" id="filter-tabs">
+        <button class="filter-tab active" data-filter="ALL">ALL</button>
+        <button class="filter-tab" data-filter="VLESS">VLESS</button>
+        <button class="filter-tab" data-filter="VMESS">VMess</button>
+        <button class="filter-tab" data-filter="TROJAN">Trojan</button>
+        <button class="filter-tab" data-filter="SS">Shadowsocks</button>
+      </div>
+
+      <div class="stat-pill">
+        <i class="fa-solid fa-server"></i>
+        <span id="t-total-label">Total Configs:</span>
+        <span class="stat-number" id="total-count">0</span>
+      </div>
+    </div>
+
+    <div class="controls">
+      <input type="text" id="search-input" class="search-box" placeholder="Search by protocol, name, or server...">
+    </div>
+
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th id="th-num">#</th>
+            <th id="th-protocol">Protocol</th>
+            <th id="th-config">Configuration</th>
+            <th id="th-actions" style="text-align: right;">Actions</th>
+          </tr>
+        </thead>
+        <tbody id="proxy-table-body">
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <div>
+        <span id="footer-text">© 2026 v2rayNG Configs. Developed with ❤️ by</span>
+        <a href="https://github.com/ALIILAPRO" target="_blank" style="color: var(--accent); font-weight: 600;">ALIILAPRO</a>
+      </div>
+      <div class="footer-links">
+        <a href="https://t.me/ALIILAPRO" target="_blank"><i class="fa-brands fa-telegram"></i> Telegram</a>
+        <a href="https://github.com/ALIILAPRO" target="_blank"><i class="fa-brands fa-github"></i> GitHub</a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="modal" id="qr-modal">
+    <div class="modal-content">
+      <button class="close-modal" id="close-modal">&times;</button>
+      <h3 id="t-qr-title">Scan with v2rayNG</h3>
+      <div id="qrcode"></div>
+      <p id="t-qr-desc" style="font-size: 0.85rem; color: var(--text-secondary);">Point your v2rayNG app camera at this QR code to import.</p>
+    </div>
   </div>
-  <h1>v2rayNG Config</h1>
-  <p>Get new and fast config for bypassing net</p>
-  <table id="proxy-table">
-    <tr>
-      <th>Number</th>
-      <th>Config</th>
-    </tr>
-  </table>
+
+  <div class="toast" id="toast">Copied to clipboard!</div>
+
   <script>
+    const translations = {
+      en: {
+        dir: "ltr",
+        navTitle: "v2rayNG Configs",
+        heroTitle: "Free & Fast Proxies",
+        heroSubtitle: "Updated proxy configurations for v2rayNG to bypass network restrictions.",
+        totalLabel: "Total Configs:",
+        searchPlaceholder: "Search by protocol, name, or server...",
+        thNum: "#",
+        thProtocol: "Protocol",
+        thConfig: "Configuration",
+        thActions: "Actions",
+        btnQr: "QR",
+        btnCopy: "Copy",
+        toastCopy: "Copied to clipboard!",
+        qrTitle: "Scan with v2rayNG",
+        qrDesc: "Point your v2rayNG app camera at this QR code to import.",
+        noConfigs: "No configs found.",
+        filterAll: "ALL",
+        footerText: "© 2026 v2rayNG Configs. Developed with ❤️ by"
+      },
+      fa: {
+        dir: "rtl",
+        navTitle: "کانفیگ‌های v2rayNG",
+        heroTitle: "پروکسی‌های رایگان و پرسرعت",
+        heroSubtitle: "بروزترین کانفیگ‌های v2rayNG جهت عبور از محدودیت‌های شبکه.",
+        totalLabel: "تعداد کل کانفیگ‌ها:",
+        searchPlaceholder: "جستجو بر اساس پروتکل، نام یا سرور...",
+        thNum: "ردیف",
+        thProtocol: "پروتکل",
+        thConfig: "لینک کانفیگ",
+        thActions: "عملیات",
+        btnQr: "بارکد",
+        btnCopy: "کپی",
+        toastCopy: "در حافظه کپی شد!",
+        qrTitle: "اسکن با برنامه v2rayNG",
+        qrDesc: "دوربین برنامه v2rayNG را جهت افزودن سرور روی این بارکد بگیرید.",
+        noConfigs: "کانفیگی یافت نشد.",
+        filterAll: "همه",
+        footerText: "© 2026 کانفیگ‌های v2rayNG. توسعه داده شده با ❤️ توسط"
+      }
+    };
+
+    let currentLang = "en";
+    let allProxies = [];
+    let currentFilter = "ALL";
+
+    const tableBody = document.getElementById('proxy-table-body');
+    const searchInput = document.getElementById('search-input');
+    const toast = document.getElementById('toast');
+    const qrModal = document.getElementById('qr-modal');
+    const qrcodeContainer = document.getElementById('qrcode');
+    const totalCountEl = document.getElementById('total-count');
+    const langToggleBtn = document.getElementById('lang-toggle');
+
+    langToggleBtn.addEventListener('click', () => {
+      currentLang = currentLang === 'en' ? 'fa' : 'en';
+      document.getElementById('lang-label').innerText = currentLang === 'en' ? 'FA / فارسی' : 'EN / English';
+      applyLanguage();
+      renderTable();
+    });
+
+    function applyLanguage() {
+      const t = translations[currentLang];
+      document.documentElement.setAttribute('dir', t.dir);
+      document.documentElement.setAttribute('lang', currentLang);
+
+      document.getElementById('nav-title').innerText = t.navTitle;
+      document.getElementById('hero-title').innerText = t.heroTitle;
+      document.getElementById('hero-subtitle').innerText = t.heroSubtitle;
+      document.getElementById('t-total-label').innerText = t.totalLabel;
+      document.getElementById('th-num').innerText = t.thNum;
+      document.getElementById('th-protocol').innerText = t.thProtocol;
+      document.getElementById('th-config').innerText = t.thConfig;
+      document.getElementById('th-actions').innerText = t.thActions;
+      document.getElementById('th-actions').style.textAlign = currentLang === 'fa' ? 'left' : 'right';
+      document.getElementById('t-qr-title').innerText = t.qrTitle;
+      document.getElementById('t-qr-desc').innerText = t.qrDesc;
+      document.getElementById('footer-text').innerText = t.footerText;
+      searchInput.placeholder = t.searchPlaceholder;
+      
+      document.querySelector('[data-filter="ALL"]').innerText = t.filterAll;
+    }
+
+    function getProtocolInfo(link) {
+      const lower = link.toLowerCase();
+      if (lower.startsWith('vless://')) return { name: 'VLESS', class: 'badge-vless' };
+      if (lower.startsWith('vmess://')) return { name: 'VMess', class: 'badge-vmess' };
+      if (lower.startsWith('trojan://')) return { name: 'Trojan', class: 'badge-trojan' };
+      if (lower.startsWith('ss://')) return { name: 'Shadowsocks', class: 'badge-ss' };
+      return { name: 'Config', class: 'badge-other' };
+    }
+
+    document.querySelectorAll('.filter-tab').forEach(tab => {
+      tab.addEventListener('click', (e) => {
+        document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+        e.target.classList.add('active');
+        currentFilter = e.target.getAttribute('data-filter');
+        renderTable();
+      });
+    });
+
+    searchInput.addEventListener('input', () => {
+      renderTable();
+    });
+
+    function renderTable() {
+      const t = translations[currentLang];
+      const keyword = searchInput.value.toLowerCase();
+      
+      const filtered = allProxies.filter(proxyLink => {
+        const proto = getProtocolInfo(proxyLink).name.toUpperCase();
+        const matchesFilter = (currentFilter === 'ALL') || 
+                              (currentFilter === 'SS' && proto === 'SHADOWSOCKS') || 
+                              (proto === currentFilter);
+        const matchesSearch = proxyLink.toLowerCase().includes(keyword);
+        return matchesFilter && matchesSearch;
+      });
+
+      totalCountEl.innerText = allProxies.length;
+
+      tableBody.innerHTML = '';
+      if (filtered.length === 0) {
+        tableBody.innerHTML = `<tr><td colspan="4" style="text-align:center; padding: 2rem;">${t.noConfigs}</td></tr>`;
+        return;
+      }
+
+      filtered.forEach((proxyLink, index) => {
+        const protoInfo = getProtocolInfo(proxyLink);
+        const row = document.createElement('tr');
+        
+        row.innerHTML = `
+          <td>${index + 1}</td>
+          <td><span class="badge ${protoInfo.class}">${protoInfo.name}</span></td>
+          <td class="config-cell" title="${proxyLink}">${proxyLink}</td>
+          <td>
+            <div class="actions">
+              <button class="btn btn-qr" data-link="${encodeURIComponent(proxyLink)}">
+                <i class="fa-solid fa-qrcode"></i> <span>${t.btnQr}</span>
+              </button>
+              <button class="btn btn-copy" data-link="${encodeURIComponent(proxyLink)}">
+                <i class="fa-regular fa-copy"></i> <span>${t.btnCopy}</span>
+              </button>
+            </div>
+          </td>
+        `;
+        tableBody.appendChild(row);
+      });
+
+      attachButtonListeners();
+    }
+
+    function attachButtonListeners() {
+      document.querySelectorAll('.btn-copy').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const link = decodeURIComponent(btn.getAttribute('data-link'));
+          copyToClipboard(link);
+        });
+      });
+
+      document.querySelectorAll('.btn-qr').forEach(btn => {
+        btn.addEventListener('click', () => {
+          const link = decodeURIComponent(btn.getAttribute('data-link'));
+          showQrCode(link);
+        });
+      });
+    }
+
+    function copyToClipboard(text) {
+      if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(text).then(showToast);
+      } else {
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+        showToast();
+      }
+    }
+
+    function showToast() {
+      toast.innerText = translations[currentLang].toastCopy;
+      toast.classList.add('show');
+      setTimeout(() => toast.classList.remove('show'), 2500);
+    }
+
+    function showQrCode(text) {
+      qrcodeContainer.innerHTML = '';
+      new QRCode(qrcodeContainer, {
+        text: text,
+        width: 180,
+        height: 180,
+        colorDark: "#000000",
+        colorLight: "#ffffff",
+        correctLevel: QRCode.CorrectLevel.M
+      });
+      qrModal.style.display = 'flex';
+    }
+
+    document.getElementById('close-modal').addEventListener('click', () => {
+      qrModal.style.display = 'none';
+    });
+    window.addEventListener('click', (e) => {
+      if (e.target === qrModal) qrModal.style.display = 'none';
+    });
+
     fetch('server.txt')
-      .then((response) => response.text())
-      .then((text) => {
-        const table = document.getElementById('proxy-table');
+      .then(response => {
+        if (!response.ok) throw new Error("HTTP error " + response.status);
+        return response.text();
+      })
+      .then(text => {
         const lines = text.split('\n');
-        lines.forEach((proxyLink, index) => {
-          if (!proxyLink.trim()) return;
+        
+        const validLines = lines.slice(12);
 
-          const row = table.insertRow();
-          const countCell = row.insertCell();
-          const linkCell = row.insertCell();
-
-          countCell.innerText = index + 1;
-          linkCell.innerHTML = `<div class="link-preview" data-link="${proxyLink}">${proxyLink}</div>`;
-        });
-
-        document.querySelectorAll('.link-preview').forEach((linkPreview) => {
-          linkPreview.addEventListener('click', () => {
-            const linkToCopy = linkPreview.getAttribute('data-link');
-            copyToClipboard(linkToCopy);
-          });
-        });
-
-        function copyToClipboard(text) {
-          const textarea = document.createElement('textarea');
-          textarea.value = text;
-          document.body.appendChild(textarea);
-          textarea.select();
-          document.execCommand('copy');
-          document.body.removeChild(textarea);
-          alert(`Copied to clipboard: ${text}`);
-        }
-      }).catch((error) => console.error(error));
+        allProxies = validLines
+          .map(line => line.trim())
+          .filter(line => line.length > 0 && !line.startsWith('#') && !line.startsWith('==='));
+        
+        renderTable();
+      })
+      .catch(error => {
+        console.error('Error fetching server.txt:', error);
+        tableBody.innerHTML = `<tr><td colspan="4" style="text-align:center; color: #ef4444; padding: 2rem;">
+          Failed to load server.txt. Make sure you are running on a web server or GitHub Pages.
+        </td></tr>`;
+      });
   </script>
 </body>
 
