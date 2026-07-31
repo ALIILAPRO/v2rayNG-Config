@@ -1,6 +1,6 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-08-01 - 01:11 (IR-🇮🇷)
+# 📅 Last Update: 2026-08-01 - 01:41 (IR-🇮🇷)
 # 📊 Total Configs: 1137
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
@@ -8,7 +8,7 @@
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTAxIC0gMDE6MTEgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTAxIC0gMDE6NDEgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -397,6 +397,7 @@ vmess://eyJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoi
 vmess://eyJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiNTc2YjFiZTYtYTNlNy00YzQwLThlYzctMGE0MDZkNmVlYWQ4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9pbnVzZS9mb3Job3N0IiwicGNzIjoiIiwicG9ydCI6IjEwMTE3IiwicHMiOiJERSDwn4ep8J+HqiB8IEBSYXlkaWthbHggfCA0NjYzNEIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiNTc2YjFiZTYtYTNlNy00YzQwLThlYzctMGE0MDZkNmVlYWQ4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9pbnVzZS9mb3Job3N0IiwicGNzIjoiIiwicG9ydCI6IjEwMTE5IiwicHMiOiJERSDwn4ep8J+HqiB8IEBSYXlkaWthbHggfCBFMzI0NzgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiM2I5YmZhNjktMTQ0NS00ODEyLTg4NDAtOWFjOGI5NjFkNjU1IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9pbnVzZS9mb3Job3N0IiwicG9ydCI6IjEwODAiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDk3NzQ3MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiNDEzYzYxNTQtZGQ1Ni00M2U3LTlmMzYtMDQ0MGVmNDc5MGE2IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii9pbnVzZS9mb3Job3N0IiwicG9ydCI6IjEwODAiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDIwNEE4QiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJDaGR4Z2loLnZpcmFuaXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBsYXkuZ29vZ2xlLmNvbSIsImlkIjoiNTk2ZDIxMTAtNjM3ZC00MjNlLWFkOWUtOGFmNzZjNjZkNDZiIiwibmV0IjoidGNwIiwicGF0aCI6Ii9pbnVzZS9mb3Job3N0IiwicG9ydCI6IjEwODAiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDM1M0U3MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiTVgg8J+HsvCfh70gfCBAUmF5ZGlrYWx4IHwgRjczNzNFIiwiYWRkIjoiY2luZHk1MC5jZW9paWkuY29tIiwicG9ydCI6IjM2ODAxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImE2YWI2NTEzLTZlYzMtMzI3Zi1hMDY4LWI4OWZlNzI5NTRiOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiYWpheC5taWNyb3NvZnQuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiJjaW5keTUyLmNlb2lpaS5jb20iLCJhaWQiOiIwIiwiaG9zdCI6ImFqYXgubWljcm9zb2Z0LmNvbSIsImlkIjoiYTZhYjY1MTMtNmVjMy0zMjdmLWEwNjgtYjg5ZmU3Mjk1NGI4IiwibmV0Ijoid3MiLCJwYXRoIjoiL2hscy9jY3R2NXBoZC5tM3U4IiwicG9ydCI6IjM2ODAzIiwicHMiOiJNWSDwn4ey8J+HviB8IEBSYXlkaWthbHggfCBGNTU0MzYiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
@@ -583,9 +584,8 @@ vless://ba5a5970-d35b-4bd6-a0e0-33350dc3ef03@62.60.148.98:55327?encryption=none&
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?encryption=none&security=tls&sni=learn00.evany.de5.net&insecure=1&allowInsecure=1&type=ws&host=learn00.evany.de5.net&path=%2Ffdip#%40Daily_Configs
 vless://29ca503d-e6b8-4509-b666-48133f450857@millionaire.levikogjgfdd.ir:443?path=%2Ffdip&security=tls&encryption=none&host=learn00.evany.de5.net&type=ws&sni=learn00.evany.de5.net#%F0%9F%87%BC%F0%9F%87%B8%20CDN
 vless://29ca503d-e6b8-4509-b666-48133f450857@one-for-all.levikogjgfdd.ir:443?type=ws&allowInsecure=0&encryption=none&path=%2Ffdip&insecure=0&host=learn00.evany.de5.net&sni=learn00.evany.de5.net&security=tls#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
-vless://49438e78-0148-a1d0-ffb5-63db11b86987@dl2dl2dl2.lornavps.ir:8855?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com#%40Daily_Configs
-vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Test-Config-2
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&type=ws#Test-Config-4
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Test-Config-2
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%A6%85%20United%20States
 vless://f788e136-b245-4617-9d41-b505c7f41ef9@deu196.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#%F0%9F%87%A9%F0%9F%87%AA%20G
