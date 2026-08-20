@@ -1,14 +1,14 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-08-20 - 17:37 (IR-🇮🇷)
-# 📊 Total Configs: 837
+# 📅 Last Update: 2026-08-20 - 18:07 (IR-🇮🇷)
+# 📊 Total Configs: 836
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTIwIC0gMTc6MzcgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTIwIC0gMTg6MDcgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -289,6 +289,7 @@ vmess://eyJhZGQiOiI2Ny4yMjAuOTUuMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0
 vmess://eyJ2IjoiMiIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgMjI2N0Y3IiwiYWRkIjoiNjguMTgzLjIwOS4xODAiLCJwb3J0IjoiODAiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImQ1MTIxMTU0LWNlZDYtNDYwZC1hOWZkLTU4OTIwMjdhYjRhMCIsInBhdGgiOiIvZ3JhcGhxbCJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgRTFCQkMwIiwiYWRkIjoiNmpkdmFyYXpndTNxcXI2cS52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgMDIxMjNDIiwiYWRkIjoiNmpkdmFyYXpndTNxcXI2cS52LjNkbnMudmlwIiwicG9ydCI6NDQzLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsInNuaSI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImhvc3QiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJwYXRoIjoiL3dzLXZtZXNzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgQzQzOEYxIiwiYWRkIjoiNzQuMjExLjEwMi4xNzkiLCJwb3J0IjoiMjAwMDEiLCJpZCI6IjdmNWYwNzA1LTNkZmItNGY1Ni05NjU3LWM5NWNhZGUyYmE4MyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsImluc2VjdXJlIjoiMCIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiI3NC40OC4yOC4xOTAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNGVkNTg5NzQtNDhjZC00NzJlLWM4MTgtZmI4NDdiOGM1NTFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCBFQzgwQzMiLCJzY3kiOiJhZXMtMTI4LWdjbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiI3NC40OC4yOC4xOTAiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiNGVkNTg5NzQtNDhjZC00NzJlLWM4MTgtZmI4NDdiOGM1NTFmIiwibmV0Ijoid3MiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjgwIiwicHMiOiJVUyDwn4e68J+HuCB8IEBSYXlkaWthbHggfCAzMjExRDQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImFscG4iOiIiLCJmcCI6IiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQlIg8J+Hp/Cfh7cgfCBAUmF5ZGlrYWx4IHwgNkY3MkNDIiwiYWRkIjoiNzguMTExLjEwMi4yMzIiLCJwb3J0IjozMzg5LCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0bHMiOiIifQ==
@@ -514,8 +515,6 @@ trojan://BxceQaOe@119.246.1.143:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20H
 vless://603819a3-dd65-408a-abab-15d8dc49887f@104.248.251.106:8880?security=&encryption=none&host=store.steampowered.com&headerType=http&type=tcp#Server%20103
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%A9%F0%9F%87%AAtelegram%E2%9E%A0%40v2rayNG_Matsuri
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%AC%F0%9F%87%A7telegram%E2%9E%A0%40v2rayNG_Matsuri
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi%23TELEGRAM-PROXY_MTM%3Fed%3D512&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=hhlfy.twiladaphne.ndjp.net&ech=encryptedsni.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=hhlfy.twiladaphne.ndjp.net#%40prrofile_purple%20%7C%20%F0%9D%97%99%F0%9D%97%AE%F0%9D%97%A6%F0%9D%97%A7%20%F0%9F%92%9A
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40v2raybaaz%20%E2%81%B5
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Server%2019
