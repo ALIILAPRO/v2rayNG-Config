@@ -1,14 +1,14 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-08-25 - 01:22 (IR-🇮🇷)
-# 📊 Total Configs: 1199
+# 📅 Last Update: 2026-08-25 - 01:52 (IR-🇮🇷)
+# 📊 Total Configs: 1200
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTI1IC0gMDE6MjIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTI1IC0gMDE6NTIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -16,6 +16,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA4LTI1
 
 vmess://eyJhZGQiOiIxNzIuMjMzLjE3Ljc2Iiwic2N5IjoiYXV0byIsInBvcnQiOiIyMjMyNCIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJwcyI6IkBmcjMzYzBuZmlnIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJhZHMueDUucnUiLCAidGxzIjogIiJ9
+vmess://eyJ2IjogIjIiLCAicHMiOiAiQEhvcGVfTmV0LWpvaW4tdXMtb24tVGVsZWdyYW0iLCAiYWRkIjogIjgyLjE5OC4yNDYuMjUwIiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi83OTk2MGIwYi03ZDMxLTQyNjMtODkxNS02NTExYjBlMTM3YTgvP2VkXFw9MjU2MCIsICJob3N0IjogIjBiMGM2ZGI2LXQ3MGY0MC10YmU0NnktMWxhN3YuaGt0LmdvdG9jaGluYXRvd24ubmV0IiwgInRscyI6ICIifQ==
 vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIzNjUiLCJwb3J0IjoiNDQzIiwicHMiOiJHQiDwn4es8J+HpyB8IEBSYXlkaWthbHggfCBCMzY0RjMiLCJzY3kiOiJhdXRvIiwic25pIjoiNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgN0IwMDQ0IiwiYWRkIjoiMTAzLjE3OS4xNDIuMTU4IiwicG9ydCI6NTAyNjksImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiODRmMjM4ZjYtMjhlYi00OGRmLWE3YmMtYTliZDljZjRhYmJhIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgOEJBNzlFIiwiYWRkIjoiMTAzLjE4MS4xNjQuMTQ1IiwicG9ydCI6NTE1NTYsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQifQ==
@@ -825,9 +826,9 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?security=reality&e
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.173:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Server%2019
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.184:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#Server%203
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.179:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9F%87%BA%F0%9F%87%B8%20%287%29
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Test-Config-2
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&type=ws#Test-Config-4
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%F0%9F%A6%85%20United%20States
 vless://f788e136-b245-4617-9d41-b505c7f41ef9@deu196.unboundaccess.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#%F0%9F%87%A9%F0%9F%87%AA%20G
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.223:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B2%20ProxyCloud%20USA%20%F0%9F%91%91
