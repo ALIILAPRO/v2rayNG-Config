@@ -1,14 +1,14 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-09-03 - 13:12 (IR-🇮🇷)
-# 📊 Total Configs: 1489
+# 📅 Last Update: 2026-09-03 - 13:42 (IR-🇮🇷)
+# 📊 Total Configs: 1491
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA5LTAzIC0gMTM6MTIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA5LTAzIC0gMTM6NDIgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -1126,6 +1126,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgRjA0MEM4IiwiYWRk
 vmess://eyJhZGQiOiJ5aWNodWVuZy5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InlpY2h1ZW5nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ikdsb2JhbCDwn4yQIHwgQFJheWRpa2FseCB8IDIxMEIxNiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJ2IjpudWxsLCJwcyI6IlJVIPCfh7fwn4e6IHwgQFJheWRpa2FseCB8IDg3NkE3OCIsImFkZCI6Ill5WVl1VUkuaVJBbjE5MTIuZHBETnMub1JHIiwicG9ydCI6NDQzLCJpZCI6IjRhN2JhY2ExLTgwNDgtNGE5MS04MzE2LTU5NWIzNjY1N2E1NCIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IllZeVlVdWkuaXJhbjE5MTIuZHBkTlMuT3JHIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii9UYUJ2a3JVYnN5dnN2aW5zR0dnIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGwsIm5hbWUiOiJSVSDwn4e38J+HuiB8IEBSYXlkaWthbHggfCA4NzZBNzgifQ==
 vmess://eyJhZGQiOiJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fib3V0Lzc2NzgiLCJwb3J0IjoiNDQzIiwicHMiOiJaQSDwn4e/8J+HpiB8IEBSYXlkaWthbHggfCA5M0REQzYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiWkEg8J+Hv/Cfh6YgfCBAUmF5ZGlrYWx4IHwgQkJGNTQ1IiwiYWRkIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicG9ydCI6IjQ0MyIsInR5cGUiOiItLS0iLCJpZCI6IjU1ODNhZjUwLWY0NjQtNGRmNi1lMmVmLTM0NTkyMzExZTVjNiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWJvdXQvNzY3OCIsImhvc3QiOiJ6YS1hLXp6eS5nbG55aGxnYy5jb20iLCJ0bHMiOiJ0bHMifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiWkEg8J+Hv/Cfh6YgfCBAUmF5ZGlrYWx4IHwgNTFFMzQ3IiwiYWRkIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiNTU4M2FmNTAtZjQ2NC00ZGY2LWUyZWYtMzQ1OTIzMTFlNWM2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwic25pIjoiemEtYS16enkuZ2xueWhsZ2MuY29tIiwicGF0aCI6Ii9hYm91dC83Njc4In0=
 vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYyODQiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IEE0MEYzOCIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJ6ZmQtYm9hcmR2Mi5rdW5sdW4wMWRucy5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjA4MDJhYzAzLTc5NzMtMzllZi1hMDE5LWJhMDJkZTZjMDFlMSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTYzMDgiLCJwcyI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDFBQ0M1MiIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
@@ -1159,6 +1160,7 @@ vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&spx=%2F&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#%F0%9F%87%A8%F0%9F%87%B5
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%40v2raybaaz%20%C2%B2
 vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.179:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb5.murhost.network&sid=fc36b4a584871aa5#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
+vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?security=&encryption=none&headerType=none&type=tcp#%D8%A7%DA%AF%D9%87%20%D9%85%DB%8C%D8%AE%D9%88%D8%A7%DB%8C%20%D9%82%D8%B7%D8%B9%20%D9%86%D8%B4%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%20%3A%20%40farsiproxy
 vless://d4b08cd6-0903-411a-9dac-45dbdf5c9712@57.131.38.163:2053?encryption=none&fp=chrome&pbk=Ej2H5ucT7qKegYcT8wODdlxa-cLHr7F4hDVUHzAhcnc&security=reality&sid=5b8a942318178e7b&sni=www.apple.com&type=tcp#France
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%87%B8%F0%9F%87%A6
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5
