@@ -1,14 +1,14 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-09-28 - 18:26 (IR-🇮🇷)
-# 📊 Total Configs: 2569
+# 📅 Last Update: 2026-09-28 - 18:56 (IR-🇮🇷)
+# 📊 Total Configs: 2571
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA5LTI4IC0gMTg6MjYgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTA5LTI4IC0gMTg6NTYgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -1324,6 +1324,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNDUyODVGIiwiYWRk
 vmess://eyJ2IjoiMiIsInBzIjoiSU4g8J+HrvCfh7MgfCBAUmF5ZGlrYWx4IHwgOEFCQjM1IiwiYWRkIjoiY2MzNS5nb2luZ3NpZGUuc2l0ZSIsInBvcnQiOiI4OTk4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRiMDE5ZmFhLTM4YjAtNDczZC1iYzQ5LTYwYmI2ODE1MWMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJob3N0IjoiY2MzNS5nb2luZ3NpZGUuc2l0ZSIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiJjZG4tYXBpLm1ybXRuLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiIyOWM0YTNiZC05ZDhjLTRhYzMtYjI3OS04YjIwMTU2MGMyMjciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIwMjAiLCJwcyI6IkRFIPCfh6nwn4eqIHwgQFJheWRpa2FseCB8IDRCQ0M0NSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vmess://eyJhZGQiOiJjZG4tY2xvdWRmbGFyZTQ1NS5rb3J2ZXhlLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZG4tY2xvdWRmbGFyZTQ1NS5rb3J2ZXhlLmlyIiwiaWQiOiI4MDAwZTM3NC02YjdmLTRiYmYtYjQ1Zi0yMjcyNjU3ZWQ1ZjkiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIvIiwicG9ydCI6IjIwOTUiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IEZBRTY4NCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgMjJGODBDIiwiYWRkIjoiY2RuLnNmYWNnLnVrIiwicG9ydCI6IjIwODMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9vcjMiLCJob3N0Ijoib3IzLnNmYWNnLnVrIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJhZGQiOiJjZG5qcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImhkZnkxYzMuaXJhbmlhbmNwaS51ayIsImlkIjoiNmI4ODBiMDctZTk1Mi00YzBiLWI0YTMtNmM5YWM0Y2Y5ZDNmIiwibmV0Ijoid3MiLCJwYXRoIjoiL1F2dHZQZERYWElsU2RaTXFudXhHIiwicG9ydCI6IjQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiJoZGZ5MWMzLmlyYW5pYW5jcGkudWsiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDVBRDcwRCJ9
 vmess://eyJhZGQiOiJjZTBnZWRweHdvdTZjcW9uLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJjZTBnZWRweHdvdTZjcW9uLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiSEsg8J+HrfCfh7AgfCBAUmF5ZGlrYWx4IHwgODI4MUFEIiwic25pIjoiY2UwZ2VkcHh3b3U2Y3Fvbi52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJ2IjoiMiIsInBzIjoiQVUg8J+HpvCfh7ogfCBAUmF5ZGlrYWx4IHwgNzdBN0VDIiwiYWRkIjoiY2YuMzM1NTcwLnh5eiIsInBvcnQiOiIyMDg2IiwiaWQiOiIzOTYwZjEyOC0xMTYzLTQwYTMtOGRkNy03YzkxMTc2ZTE0YTUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJhdXhuYW1kMS50b3BmNi5jb20iLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJ0bHMiOiIifQ==
@@ -2082,7 +2083,6 @@ trojan://MiTiVPN@151.101.56.255:443?security=tls&sni=ssl.fastly.com&fp=chrome&al
 trojan://MiTiVPN@199.232.78.188:443?allowInsecure=1&insecure=1&security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&path=%2F%3FDailyConfigs--DailyConfigs#Telegram%20%3A%20%40Daily_Configs
 trojan://MiTiVPN@199.232.78.188:443?security=tls&alpn=http%2F1.1&insecure=0&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://MiTiVPN@199.232.78.188:443?security=tls&sni=ssl.fastly.com&fp=chrome&alpn=http%2F1.1&type=ws&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&path=%2F%3FDailyConfigs--DailyConfigs#Channel%20%3A%20%40proxy_kafee
-trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&type=ws&host=www.volumeroot.com&path=%2Fassignment#%40Daily_Configs
 vless://%58pnTeam-43@199.232.78.170:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40mehrosaboran
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.123.165.180:9881?mode=gun&security=reality&encryption=none&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&fp=qq&type=grpc&serviceName=grpc-tunnel&sni=dl.google.com&sid=aabbccdd#%40flyv2ray
 vless://5d16ac22-6eea-426f-b778-6f4c2961faef@176.108.244.38:9881?encryption=none&security=reality&sni=dl.google.com&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#Telegram%20%3A%20%40Daily_Configs
@@ -2093,8 +2093,10 @@ vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@66.90.104.43:2083?encryption=none&s
 vless://a8e3155b-ceb1-4fcb-bc0c-2e77ec005401@files.noneok.com:443?mode=gun&security=reality&encryption=none&pbk=q3kOYHdjmqWLLYj8oikvna1bTjofk45ktegGaJE611g&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=files.noneok.com&sid=d3b394558cfe0266#Server%2050
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#https://t.me/VIPV2rayNGNP
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%40v2raybaaz%20%C2%B2
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#v2ray_dalghak
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#v2ray_dalghak
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#v2ray_dalghak
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Test-Config-2
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&type=ws#Test-Config-4
