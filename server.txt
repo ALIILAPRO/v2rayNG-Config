@@ -1,14 +1,14 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-10-06 - 00:58 (IR-🇮🇷)
-# 📊 Total Configs: 2772
+# 📅 Last Update: 2026-10-06 - 01:28 (IR-🇮🇷)
+# 📊 Total Configs: 2774
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTEwLTA2IC0gMDA6NTggKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTEwLTA2IC0gMDE6MjggKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -24,6 +24,7 @@ vmess://eyJhZGQiOiJ0cjEud2VicGF0aHdheS5ldSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vmess://eyJhZGQiOiI4OS40MS4xNzIuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQFYycmF5X0FscGhh8J+bpO+4jyA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==hysteria2
 vmess://eyJhZGQiOiJ1c2Eud2VicGF0aHdheS5ldSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNzdmZDNkOC1jZmFmLTVhOWMtNTMzYi1hOWRlNTYwM2MyNTQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODYiLCJwcyI6IkBWMnJheV9BbHBoYfCfm6TvuI8gOCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=vless
 vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiNDc5NTI2Y2QtNTAxMS00M2NmLWE3ODgtNTA0ZGE5NWUwN2MyIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiQFYycmF5X0FscGhh8J+bpO+4jyAxMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIyMTYuMTA2LjE4Ny42MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiIuIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiIyMTYuMTUyLjE1Mi4xODciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoi8J2XnfCdl7zwnZe28J2XuyDinqAgQHZwbnBsdXNlZV9mcmVlIHwg8J+HuvCfh7giLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
 vmess://eyJhZGQiOiI0NS44MC4yMTUuOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiI5LS1BbGwtLUBWMnJheUFscGhhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless
 vmess://eyJhZGQiOiI1LjQ1Ljk3LjE0NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmYmZiNy03MjFhLTQ5YTktYjlmNS1mYjU1ZDkyNTkyYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDgwMyIsInBzIjoiQFYycmF5X0FscGhh8J+SjSAxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==socks
@@ -2334,6 +2335,7 @@ vless://6ead3f4c-023f-4322-b5c4-ac4e327d259d@199.232.78.159:443?security=tls&enc
 vless://f28e0ce1-ed75-4e90-b069-5215a80dfb4a@83.168.95.145:443?security=reality&encryption=none&pbk=AcuvO982QLzf76fVydfSuJIiF5520rmj7AxpaxyRwUg&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d345ad4657adeef9#%40v2raybaaz
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.15:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=ios&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&type=tcp&headerType=none#%20
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40vpnplusee_free%20%7C%20%F0%9F%87%BA%F0%9F%87%B8
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#%40i10VPN%F0%9F%8C%95
