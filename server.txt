@@ -1,14 +1,14 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-10-20 - 06:35 (IR-🇮🇷)
-# 📊 Total Configs: 3486
+# 📅 Last Update: 2026-10-20 - 07:06 (IR-🇮🇷)
+# 📊 Total Configs: 3489
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTEwLTIwIC0gMDY6MzUgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTEwLTIwIC0gMDc6MDYgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -3024,7 +3024,9 @@ vmess://eyJhZGQiOiJmYXBlbmcub3JnIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3Qi
 trojan://humanity@188.114.98.0:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40FarazV2ray%20
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---mehrosaboran&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40mehrosaboran
 trojan://humanity@www.speedtest.net:443?path=%2Fassignment%3Fed%23Telegram---mehrosaboran&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40mehrosaboran
+trojan://humanity@188.114.98.0:443?path=%2Fassignment%3Fed%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40mehrosaboran
 trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment%3Fed%23Telegram---bored_vpn#%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%20%3A%20%40%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%B2_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%AC
+trojan://humanity@188.114.97.6:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment%3Fed%23Telegram---mehrosaboran#%F0%9D%90%82%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%20%3A%20%40%F0%9D%90%83%F0%9D%90%9A%F0%9D%90%A2%F0%9D%90%A5%F0%9D%90%B2_%F0%9D%90%82%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9F%F0%9D%90%A2%F0%9D%90%A0%F0%9D%90%AC
 trojan://humanity@188.114.98.0:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---mehrosaboran&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%40mehrosaboran
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
@@ -3043,12 +3045,13 @@ trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 trojan://humanity@www.speedtest.net:443?security=tls&sni=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&host=www.calmlunch.com&path=%2Fassignment#Telegram%3A%20%40Daily_Configs
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#NL
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22223?encryption=none&security=none&type=tcp#OurChannel
 vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#PRX11%20%7C%20%40proxystore11%20%F0%9F%87%BA%F0%9F%87%B8%20VLESS%20
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?security=reality&encryption=none&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=70ab6d813e#%40flyv2ray
 vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@144.31.4.234:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%F0%9F%87%AB%F0%9F%87%AE%F0%9D%99%8F%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9A%F0%9D%99%9C%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A2%E2%AB%B8%40%F0%9D%99%AB%F0%9D%9F%AE%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%89%F0%9D%99%82_%F0%9D%99%88%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%A8%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%9E
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@205.237.110.254:443?security=reality&encryption=none&pbk=IG6lxrx_xkGOoBuo3DC8sgQoIFmqVgznIr0qOuNO0w4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=zsit.eu-cdn294.com&sid=cd2d53510b4df2a8#%40FarazV2ray%20
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=&encryption=none&host=hhlfy.twiladaphne.ndjp.net&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=firefox&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%40v2raybaaz%20%C2%B2
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&security=none&encryption=none&host=hhlfy.twiladaphne.ndjp.net&fp=chrome&type=ws&sni=hhlfy.twiladaphne.ndjp.net#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=%2F&security=none&encryption=none&type=ws#Test-Config-4
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?encryption=none&security=none&type=grpc#Test-Config-5
