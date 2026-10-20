@@ -1,14 +1,14 @@
 # ========================================
 # 🤖 Auto-Updated VPN Configs
-# 📅 Last Update: 2026-10-20 - 02:30 (IR-🇮🇷)
-# 📊 Total Configs: 3482
+# 📅 Last Update: 2026-10-20 - 03:01 (IR-🇮🇷)
+# 📊 Total Configs: 3484
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
 # 📢 Channel: @dailyv2rayCF
 # ========================================
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHUyNzY0IEFMSUlMQVBSTyAoQUxJLkIpIE9mZmljaWFsIENvbmZpZyIsICJhZGQiOiAiaHR0cHM6Ly9naXRodWIuY29tL0FMSUlMQVBSTy92MnJheU5HLUNvbmZpZyIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJhbGlpbGFwcm8tdjJyYXluZy1jb25maWciLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImdpdGh1Yi5jb20iLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogImdpdGh1Yi5jb20iLCAiYWxwbiI6ICJoMixodHRwLzEuMSJ9
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTEwLTIwIC0gMDI6MzAgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDUyIExhc3QgVXBkYXRlOiAyMDI2LTEwLTIwIC0gMDM6MDEgKElSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNykiLCAiYWRkIjogInRpbWUuaXIiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAibGFzdC11cGRhdGUtdGltZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidGltZS5pciIsICJwYXRoIjogIi8iLCAidGxzIjogInRscyIsICJzbmkiOiAidGltZS5pciIsICJhbHBuIjogImgyLGh0dHAvMS4xIn0=
 
 ==================================================
 
@@ -601,6 +601,7 @@ vmess://eyJhZGQiOiIxNjguMTEzLjIxNS42IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJ2IjoiMiIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgQTY4RUVDIiwiYWRkIjoiMTY4LjExOS4xMDcuMTYyIiwicG9ydCI6MzE0ODQsImlkIjoiOTQzOTYxYjgtNGUyNy00YmRmLWEwNDgtYzJmNzI0ZjU0MmZiIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIn0=
 vmess://eyJ2IjpudWxsLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IEE5NDBENiIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MCwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE2OC4xMzguNDMuNzUiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCBBOTQwRDYifQ==
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJOb25lIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDc1QzdFRCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDc0QTcxOSIsInNuaSI6IjE2OC4xMzguNDMuNzUiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDY5Q0YwRCIsInNuaSI6ImpwMDEuYTBhLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMUUxQzE0IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDEuYTBhLnh5eiJ9
 vmess://eyJhZGQiOiIxNjguMjIyLjQ5LjE4OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNTVkZTQwZC1jNWQwLTQwNjQtYjEyNC05NDliYTI4NGMzYjQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJQTCDwn4e18J+HsSB8IEBSYXlkaWthbHggfCAyRUIxQUEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
@@ -3039,6 +3040,7 @@ trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22223?encryption=none&security=none&type=tcp#OurChannel
 vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.54.202:22223?encryption=none&security=none&type=tcp#OurChannel
 vless://3ee10440-225e-4cbc-83ed-3c80b90bcb07@188.114.98.0:2053?path=%2Fmovies%2F12345&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&encryption=mlkem768x25519plus.native.0rtt.0TIaNxGWIbxIoNec1tr6yDGALPkxDwwKGufh98_tKAw&insecure=0&host=ovh-gr1.mahkhorshidi.ir&fp=firefox&type=ws&allowInsecure=0&sni=ovh-gr1.mahkhorshidi.ir#%F0%9F%87%AB%F0%9F%87%AE%F0%9D%99%8F%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9A%F0%9D%99%9C%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A2%E2%AB%B8%40%F0%9D%99%AB%F0%9D%9F%AE%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%89%F0%9D%99%82_%F0%9D%99%88%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%A8%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%9E
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%E2%9E%A0%40PlanB_net
 vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?security=reality&encryption=none&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=70ab6d813e#%40flyv2ray
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp&headerType=none#Channel%20%3A%20%40Daily_Configs
 vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@144.31.4.234:443?security=reality&encryption=none&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=direct-nl.bachidze.com#%F0%9F%87%AB%F0%9F%87%AE%F0%9D%99%8F%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9A%F0%9D%99%9C%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A2%E2%AB%B8%40%F0%9D%99%AB%F0%9D%9F%AE%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%AE%F0%9D%99%89%F0%9D%99%82_%F0%9D%99%88%F0%9D%99%96%F0%9D%99%A9%F0%9D%99%A8%F0%9D%99%AA%F0%9D%99%A7%F0%9D%99%9E
